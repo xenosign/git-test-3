@@ -14,9 +14,7 @@ function App() {
       <Route path="/item" element={<Item />} />
       <Route path="/join" element={<Join />} />
       <Route path="/login" element={<Login />} />
-
       <Route path="/signup2" element={<Signup2 />} />
-
       <Route path="/signup1" element={<Signup1 />} />
       <Route path="/signup3" element={<Signup3 />} />
     </Routes>
