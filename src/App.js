@@ -3,8 +3,8 @@ import Index from './pages/Index';
 import Item from './pages/Item';
 import Join from './pages/Join';
 import Login from './pages/Login';
-import Signup2 from './pages/Signup2';
 import Signup1 from './pages/Signup1';
+import Signup2 from './pages/Signup2';
 import Signup3 from './pages/Signup3';
 
 function App() {
